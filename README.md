@@ -23,7 +23,7 @@
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                   ✦  ARTISTMUSIC MUSIC BOT  ✦
+                   ✦  MAYRAMUSIC MUSIC BOT  ✦
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -160,8 +160,8 @@
 | `ARTISTBOTS_KEY` | ⚙️ | API key — [@MAYRAxMUSIC_bot](https://t.me/MAYRAxMUSIC_bot) |
 | `[SUPPORT_CHAT](https://t.me/+3MxHK9NNgvZjY2E1)` | 🔵 | Support group link (optional) |
 | `https://t.me/tani_tgg` | 🔵 | Updates channel link (optional) |
-| `[START_IMG](https://t.me/c/3415870383/13)` | 🔵 | Start message image URL (optional) |
-| `[PING_IMG](https://t.me/c/3415870383/13)` | 🔵 | Ping message image URL (optional) |
+| `[START_IMG](https://files.catbox.moe/7o2ngw.jpg))` | 🔵 | Start message image URL (optional) |
+| `[PING_IMG](https://files.catbox.moe/7o2ngw.jpg)` | 🔵 | Ping message image URL (optional) |
 | `STRING_SESSION2` | 🔵 | Second assistant session (optional) |
 | `STRING_SESSION3` | 🔵 | Third assistant session (optional) |
 
