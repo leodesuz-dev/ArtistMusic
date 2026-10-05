@@ -157,11 +157,11 @@
 | `LOGGER_ID` | ✅ | Telegram group ID for logs |
 | `OWNER_ID` | ✅ | Your Telegram user ID |
 | `ARTISTBOTS_API_URL` | ⚙️ | ArtistBots API endpoint |
-| `ARTISTBOTS_KEY` | ⚙️ | API key — [@ArtistApibot](https://t.me/ArtistApibot) |
-| `SUPPORT_CHAT` | 🔵 | Support group link (optional) |
-| `SUPPORT_CHANNEL` | 🔵 | Updates channel link (optional) |
-| `START_IMG` | 🔵 | Start message image URL (optional) |
-| `PING_IMG` | 🔵 | Ping message image URL (optional) |
+| `ARTISTBOTS_KEY` | ⚙️ | API key — [@MAYRAxMUSIC_bot](https://t.me/MAYRAxMUSIC_bot) |
+| `[SUPPORT_CHAT](https://t.me/+3MxHK9NNgvZjY2E1)` | 🔵 | Support group link (optional) |
+| `https://t.me/tani_tgg` | 🔵 | Updates channel link (optional) |
+| `[START_IMG](https://t.me/c/3415870383/13)` | 🔵 | Start message image URL (optional) |
+| `[PING_IMG](https://t.me/c/3415870383/13)` | 🔵 | Ping message image URL (optional) |
 | `STRING_SESSION2` | 🔵 | Second assistant session (optional) |
 | `STRING_SESSION3` | 🔵 | Third assistant session (optional) |
 
