@@ -23,7 +23,7 @@
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                   ✦  ARTISTMUSIC MUSIC BOT  ✦
+                   ✦  MAYRAMUSIC MUSIC BOT  ✦
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -155,13 +155,13 @@
 | `STRING_SESSION` | ✅ | Pyrogram String Session for assistant |
 | `MONGO_DB_URI` | ✅ | MongoDB connection string |
 | `LOGGER_ID` | ✅ | Telegram group ID for logs |
-| `OWNER_ID` | ✅ | Your Telegram user ID |
+| `https://t.me/Egoistic_ll` | ✅ | Your Telegram user ID |
 | `ARTISTBOTS_API_URL` | ⚙️ | ArtistBots API endpoint |
 | `ARTISTBOTS_KEY` | ⚙️ | API key — [@ArtistApibot](https://t.me/ArtistApibot) |
-| `SUPPORT_CHAT` | 🔵 | Support group link (optional) |
-| `SUPPORT_CHANNEL` | 🔵 | Updates channel link (optional) |
-| `START_IMG` | 🔵 | Start message image URL (optional) |
-| `PING_IMG` | 🔵 | Ping message image URL (optional) |
+| `https://t.me/+3MxHK9NNgvZjY2E1` | 🔵 | Support group link (optional) |
+| `https://t.me/tani_tgg` | 🔵 | Updates channel link (optional) |
+| `https://files.catbox.moe/7o2ngw.jpg` | 🔵 | Start message image URL (optional) |
+| `[[PING_IMG](https://files.catbox.moe/7o2ngw.jpg)` | 🔵 | Ping message image URL (optional) |
 | `STRING_SESSION2` | 🔵 | Second assistant session (optional) |
 | `STRING_SESSION3` | 🔵 | Third assistant session (optional) |
 
